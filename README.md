@@ -7,3 +7,5 @@ is characterized by convenience, realistic gameplay, as well as numerous bonuses
 User-friendly interface and controls that do not perplex customers
 
 The app provides complete control over your business, allowing you to view all incoming data from home
+
+[<img src="https://github.com/Tyanthonyjordan/fire-kirin/blob/main/fire%20kirin.jpg"/>]
